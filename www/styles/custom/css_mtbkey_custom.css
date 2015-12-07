@@ -1,0 +1,46 @@
+.clsLabelError
+{
+    color: red;
+    font-weight: bold;
+}
+
+.clsTxtError
+{
+    font-weight: bold;
+    border: 1px solid red;
+}
+
+#divTopButtons
+{
+    padding-top: 15px !important;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#divBottomButtons
+{
+    padding-bottom: 5px !important;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.clsCode
+{
+    color:green !important; 
+    font-weight:bold !important;
+}
+
+.clsRequired
+{
+    color:#005497 !important; 
+    font-weight:bold !important;
+}
+
+.clsNormal
+{
+    color:#333 !important; 
+    font-weight:bold !important;
+}
+
+.clsNone
+{}

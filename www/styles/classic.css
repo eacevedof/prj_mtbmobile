@@ -1,0 +1,55 @@
+a:active {  color: #009900; text-decoration: none}
+a:hover  {  color: #FF0000; text-decoration: none}
+a        {  color: #0000CC; text-decoration: none}
+pre      {  color: #000000; font-size: 11px;}
+body { cursor:default; background : #999999; }
+.m { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #444591; font-weight: bold; text-decoration: none }
+.mselected { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #444591; font-weight: bold; text-decoration: none; background-color: #a4c8ea; }
+.input { font-family: Arial, Helvetica, sans-serif; width: 95%; font-size: 10px; border: 1px solid #666666; clip : auto; padding-left : 2px; }
+.input2 {font-family: Arial, Helvetica, sans-serif;width: 95%;font-size: 10px;border: 1px solid #660000;clip : auto;padding-left : 2px;background-color: #E2E2FF;color: #660000}
+.inputreadonly { font-family: Arial, Helvetica, sans-serif; width: 95%; font-size: 10px; border: 1px solid #666666; clip : auto; padding-left : 2px; background-color: #E4E4E4; }
+.inputerror { font-family: Arial, Helvetica, sans-serif; width: 95%; font-size: 10px; border: 1px solid #666666; clip : auto; padding-left: 2px; color:#990000; font-weight:bold; }
+.Command { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.Viewtitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px }
+.Label { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.Required { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color : #990000; }
+.Selected { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; background-color: #DDDDDD; color: #000000; border: solid; border-width: 1px 1px 3px 1px; border-color: #FFFFFF #666666 #3E5B96 #FFFFFF }
+.Selected2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; background-color: #CCCCCC; color: #000000; border: solid; border-width: 1px 1px 3px 1px; border-color: #FFFFFF #3E5B96 #009900 #FFFFFF; }
+.Selected3 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; background-color: #DDDDDD; color: #000000; border: solid; border-width: 1px 1px 3px 1px; border-color: #FFFFFF #666666 #995B96 #FFFFFF }
+.listover { background-color: #CFDAEB; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file { background-color: #FFFFFF; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file2 { background-color: #EEEEEE; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file3 {	background-color: #FFFFEE;	border: 0px #3E5B96 solid;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px }
+.list_file4 {	background-color: #FFFFE4;	border: 0px #3E5B96 solid;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px }
+.list_file5 {	background-color: #EEFFEE;	border: 0px #3E5B96 solid;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px }
+.list_file6 {	background-color: #E4FFE4;	border: 0px #3E5B96 solid;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px }
+.list_file7 { background-color: #EEEEFF; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file8 { background-color: #E4E4FF; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file9 { background-color: #FFEEEE; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file10 { background-color: #FFDDDD; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file11 { background-color: #FFDCED; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file12 { background-color: #FFCCDD; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+.list_file_total { background-color: #FFFFFF; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;   font-size: 10px }
+.list_file_total { background-color: #FFFFFF; border: 0px #3E5B96 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;   font-size: 10px }
+.list { background-color: #FFFFFF; border: #666666; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px }
+.Tagselected { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; background-color: #D9D9D9; border: solid; border-width: 3px 1px 0px 1px; border-color: #009900 #666666 #FFFFFF #666666 }
+.Tagselected2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; background-color: #D9D9D9; color: #333333; border: solid; border-width: 2px 1px 2px 1px; border-color: #3E5B96 #666666 #999999 #FFFFFF; }
+.Tagnoselected { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; background-color: #BBBBBB; color: #333333; border: solid; border-width: 2px 1px 2px 1px; border-color: #3E5B96 #666666 #666666 #FFFFFF; }
+.Tabover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; background-color: #DDDDDD; border: solid; border-width: 2px 1px 2px 1px; border-color: #009900 #666666 #666666 #FFFFFF; }
+.Headertext { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF; }
+.DataTable_header { border: 1px #666666 solid; background-color: #5F7FB0; }
+.BGTable { border: 1px #666666 solid; background:url(../images/bg.jpg);}
+.DataTable { border: 1px #666666 solid; background-color: #D9D9D9; }
+.DataTable2 { border: #666666 solid; border-width: 0px 1px 1px 1px; background-color: #D9D9D9; }
+.ModuleTitle { color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 16pt; font-weight : bold; }
+.buttonover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; background-color: #CCCCCC; border: solid; border-width: 1px 1px 1px 1px; border-color: #FFFFFF #999999 #666666 #FFFFFF; }
+.buttondown { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; background-color: #CCCCCC; border: solid; border-width: 1px 1px 1px 1px; border-color: #999999 #FFFFFF #FFFFFF #666666; }
+.buttonout{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; background-color: #D9D9D9; border: solid; border-width: 1px 1px 1px 1px; border-color: #D9D9D9 #D9D9D9 #D9D9D9 #D9D9D9; }
+.Error_csv {     font-family: Verdana, Arial, Helvetica, sans-serif;     font-size: 10px;        font-weight: bold;      color : #990000; }
+.ReportHead {     font-family: Verdana, Arial, Helvetica, sans-serif;     font-size: 10px;        font-weight: bold;      color : #00005A; }
+.ReportHeadError {     font-family: Verdana, Arial, Helvetica, sans-serif;     font-size: 10px;        font-weight: bold;color : #00005A; }
+.inputclasse   { font-family:tahoma; font-size:11px; border:1px solid #666666; width:100%; border-top-style: none; border-left-style: none; border-right-style: none; padding-left:2px; }
+.field_error {     font-family: Verdana, Arial, Helvetica, sans-serif;     font-size: 10px;        font-weight: bold;      color : #990000; } 
+.bar { background-color: #D93333; border: solid; border-width: 1px 1px 1px 1px; border-color: #000000 #000000 #000000 #00000; }
+.bar2 { background-color: #339933; border: solid; border-width: 1px 1px 1px 1px; border-color: #000000 #000000 #000000 #00000; }
+.bar3 { background-color: #333399; border: solid; border-width: 1px 1px 1px 1px; border-color: #000000 #000000 #000000 #00000; }
